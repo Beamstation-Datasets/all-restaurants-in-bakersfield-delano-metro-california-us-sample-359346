@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Metro-wide restaurant data for the Bakersfield-Delano (Metro), California metropolitan area, spanning Bakersfield and Delano. Covers the full metropolitan dining ecosystem of a mid-size metropolitan dining market. Filtered by the Restaurants category group with ratings, review analytics, competitive positioning, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Bakersfield-Delano (Metro), California, US",
+  "export_job_id": "dfe78827-1468-4309-b48c-604f2d39dd37",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 359346,
+  "location_name": "Bakersfield-Delano, CA",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-bakersfield-delano-metro-california-us-sample-359346",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/359346/beamstation_359346_restaurants-us-bakersfielddelanoca_SAMPLE_DIST.csv",
+  "sample_pct": 9.99,
+  "sample_records": 153,
+  "sample_sha256": "e07f64182853394505c18d2e2fdac37f2b1cdefd326482806fdd9572c1f910e7",
+  "sample_size_bytes": 590112,
+  "total_records": 1532,
+  "updated_at": "2026-04-09T17:02:22.889557+00:00"
+}
