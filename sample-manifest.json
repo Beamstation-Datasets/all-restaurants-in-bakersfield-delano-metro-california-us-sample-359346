@@ -1,12 +1,12 @@
 {
-  "export_job_id": "41f8d505-ab82-497d-b63a-c31002eaf572",
+  "export_job_id": "f591360e-780c-4468-99da-636663e52905",
   "id_short": 359346,
-  "published_at": "2026-04-19T19:43:32Z",
+  "published_at": "2026-04-23T19:53:04Z",
   "repo_name": "all-restaurants-in-bakersfield-delano-metro-california-us-sample-359346",
   "sample_asset_name": "beamstation_359346_restaurants-us-bakersfielddelanoca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/359346/beamstation_359346_restaurants-us-bakersfielddelanoca_SAMPLE_DIST.csv",
-  "sample_records": 150,
-  "sample_sha256": "899725f2aac7ec196c9127a1ff30dc9012f36b27629e41aea83691cea338edcc",
-  "sample_size_bytes": 568595,
-  "total_records": 1504
+  "sample_records": 86,
+  "sample_sha256": "2af13a2a1887e02f3c86d85a87b5ffa63f869e74e9148797f73acda4ea58d9cc",
+  "sample_size_bytes": 322501,
+  "total_records": 860
 }
